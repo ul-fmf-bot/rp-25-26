@@ -1,0 +1,1 @@
+105 je najmanjše naravno število n, za katerega ima n-ti ciklotomični polinom koeficient, ki ni 0, -1 ali 1.
